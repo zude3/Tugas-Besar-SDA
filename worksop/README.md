@@ -1,5 +1,5 @@
 Repository
 
-Nama : Ahamd Zuhdi Filanda
-Divisi : Prgramminmg
-Sub Divisi : Web Rpgrsamming
+Nama : Ahmad Zuhdi Filanda
+Divisi : Proramming
+Sub Divisi : Web Programming
